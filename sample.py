@@ -7,4 +7,5 @@ else:
     if thirsty == "yes":
         print("drink water")
         print("drink juice")
-    print("do coding")
+    else:
+        print("do coding")
